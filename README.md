@@ -7,4 +7,4 @@ Premier projet, l'objectif est de travailler sur:
 - L'utilisation des loop (while, for)
 - Manipulation des listes
 - Manipulation des variables
--
+
